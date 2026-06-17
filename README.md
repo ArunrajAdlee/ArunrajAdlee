@@ -16,7 +16,7 @@ TypeScript · React · Redux Toolkit & RTK Query · NodeJS · PostgreSQL
 AWS · Terraform
 
 **Testing & tooling**
-React Testing Library · Vite · Vitest · Auth0
+React Testing Library · Vite · Vitest · Auth0 · Cursor · Claude Code · Figma
 
 ## 📫 Find me here
 

@@ -10,12 +10,15 @@ AI and LLM tooling — both as a user and as a builder. I've super familiar with
 ## 🛠️ Things I reach for
 
 **Day-to-day**
+
 TypeScript · React · Redux Toolkit & RTK Query · NodeJS · PostgreSQL
 
 **Infrastructure**
+
 AWS · Terraform
 
 **Testing & tooling**
+
 React Testing Library · Vite · Vitest · Auth0 · Cursor · Claude Code · Figma
 
 ## 📫 Find me here

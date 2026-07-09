@@ -17,6 +17,6 @@ AI and LLM tooling — both as a user and as a builder. I've super familiar with
 
 ## 📫 Find me here
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-arunrajadlee.github.io-orange?style=flat)](https://arunrajadlee.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arunrajadlee-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/arunrajadlee)
 [![Email](https://img.shields.io/badge/Email-arunraj.adlee@hotmail.com-EA4335?style=flat&logo=gmail)](mailto:arunraj.adlee@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-arunrajadlee.github.io-orange?style=flat)](https://arunrajadlee.github.io/)
